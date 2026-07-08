@@ -11,7 +11,7 @@ Written and debugged independently in Jupyter while working through the video.
 ## What it does
 - Implements a `Value` class with automatic differentiation (backpropagation) via a dynamically built computation graph
 - `Neuron`, `Layer`, and `MLP` classes built on top of `Value`
-- the demo uses graphviz to vsialize how the gradiants flows through and what the calculation for the loss fucntion looks like
+- the demo uses graphviz to vsialize how the gradiants flow through and what the calculation for the loss fucntion looks like
 
 ## What I learned
 - learned how backprop works by debugging everything myself and running into walls numerous times
